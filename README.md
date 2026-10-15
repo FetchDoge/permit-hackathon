@@ -6,7 +6,7 @@ Permit puts an enforceable four-clause authority gate between an AI agent and Pa
 
 This repository is the judge-facing packet for the [PayPal AI Hackathon](https://paypalaihackathon.devpost.com/) (deadline 12 Nov 2026, 12:00 pm Pacific). It is not a second implementation. The gate lives in the source tree.
 
-Source, revision cited below: [marsojuji-cmyk/permit](https://github.com/marsojuji-cmyk/permit) at `b97189a18d2eed274a3e547613ff203a244a973f`.
+Source, revision cited below: [FetchDoge/permit](https://github.com/FetchDoge/permit) at `b97189a18d2eed274a3e547613ff203a244a973f`.
 
 Video: not uploaded. No public video URL is in the source repo (`docs/submission-checklist.md` line 28).
 
@@ -15,7 +15,7 @@ Video: not uploaded. No public video URL is in the source repo (`docs/submission
 The runnable demo is the mock rail. It does not call PayPal.
 
 ```bash
-git clone https://github.com/marsojuji-cmyk/permit.git
+git clone https://github.com/FetchDoge/permit.git
 cd permit
 python3 demo.py
 ```
