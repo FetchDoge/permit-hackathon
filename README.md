@@ -53,4 +53,5 @@ Built by Marcus Richards, directing AI coding agents.
 
 ## License
 
-MIT. The text is the source repo `LICENSE`, copyright 2026 Marcus Richards.
+Copyright 2026 Marcus Richards.
+Licensed under the Apache License 2.0. See LICENSE.
