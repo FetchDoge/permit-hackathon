@@ -29,7 +29,7 @@ Only the bullets under “May appear on the form or in the video” are safe to 
 - No public video URL is in the source repo. `docs/submission-checklist.md` line 28.
 - Production boundaries, six bullets. Source `README.md` lines 73–79. Also in this packet’s README.
 - The agent is not the holder of the PayPal secret. Source `README.md` lines 9 and 100.
-- License is MIT, copyright 2026 Marcus Richards. Source `LICENSE`.
+- License is Apache-2.0, copyright 2026 Marcus Richards. Source `LICENSE` and `NOTICE`.
 - The hackathon deadline named in the source README is Nov 12, 2026. Source `README.md` line 11.
 
 ## Withheld until the source tree shows them
