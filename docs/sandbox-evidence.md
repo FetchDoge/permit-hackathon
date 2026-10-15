@@ -2,7 +2,7 @@
 
 This file is evidence of the sandbox procedure, not a claim that the video recording is live.
 
-Status at source `b97189a18d2eed274a3e547613ff203a244a973f`: **not recorded.** `README.md` line 107 and `docs/submission-checklist.md` line 62 say the six beats have not been run as one sandbox session. No permit id, order id, authorization id, or capture id from that session exists. Do not fill the blanks from the mock demo. Mock ids start with prefixes such as `mock_` and are not sandbox evidence.
+Status at source `21d7d7ccdf418e46ffd9a6f56aac40491c97d458`: **not recorded.** `README.md` line 111 and `docs/submission-checklist.md` line 62 say the six beats have not been run as one sandbox session. No permit id, order id, authorization id, or capture id from that session exists. Do not fill the blanks from the mock demo. Mock ids start with prefixes such as `mock_` and are not sandbox evidence.
 
 ## How to fill this file
 
@@ -74,4 +74,4 @@ The source runbook’s beat 4 is e-stop on that permit. Cascade of a parent onto
 
 - End timestamp:
 - `verify_chain` result:
-- What this session does not prove: in-memory state, no HTTP caller authentication, hash chain is not a signature, single merchant, completed captures have no refund path in this prototype (`README.md` lines 72–77).
+- What this session does not prove: durability of escrows, pending operations and approvals (only the `--db` ledger is durable), role-separated authentication (one shared bearer token), a demo acceptance-key fallback, hash chain is not a signature, single merchant, completed captures have no refund path in this prototype (`README.md` lines 73–79).
