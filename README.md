@@ -49,6 +49,8 @@ Summarized from the source README, “What it does not defend (production bounda
 
 The integrated sandbox six-beat session is not recorded (`README.md` line 111). [docs/sandbox-evidence.md](docs/sandbox-evidence.md) is the place those ids go after a real run. [docs/claims.md](docs/claims.md) is the list that may appear on the Devpost form or in the video.
 
+Built by Marcus Richards, directing AI coding agents.
+
 ## License
 
 MIT. The text is the source repo `LICENSE`, copyright 2026 Marcus Richards.
